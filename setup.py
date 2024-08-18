@@ -33,7 +33,7 @@ REQUIRED_PACKAGES = [
     "pillow>=9.4.0",  
     "huggingface_hub",  
     "diffusers[torch]==0.15.1",  
-    "onnxruntime==1.14.1",  
+    "onnxruntime>=1.14.1",  
     "onnx==1.13.1",  
     "ipykernel==6.16.2",  
     "scipy",  
